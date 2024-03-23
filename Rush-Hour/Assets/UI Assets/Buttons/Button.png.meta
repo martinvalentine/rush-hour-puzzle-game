@@ -271,7 +271,7 @@ TextureImporter:
         height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 9, y: 12, z: 9, w: 12}
+      border: {x: 9, y: 8, z: 9, w: 7}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -712,7 +712,7 @@ TextureImporter:
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 7, y: 6, z: 7, w: 7}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -733,7 +733,7 @@ TextureImporter:
         height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 3, y: 3, z: 3, w: 3}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -880,7 +880,7 @@ TextureImporter:
         height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 7, y: 6, z: 7, w: 7}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -913,7 +913,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HomeButton
+      name: HomeButtonS
       rect:
         serializedVersion: 2
         x: 279
@@ -1374,6 +1374,174 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: RestartButtonReady
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 149
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f241dd436ba56fc44b8b09aa685f3baf
+      internalID: -1336110041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RestartButtonDown
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 149
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a067e54135ec98a478d63a576565c8b2
+      internalID: -567301500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextButton
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 213
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd90942f924f7044b93b2179272e862
+      internalID: 530002372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NextButtonDown
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 213
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9d2aef7de671e4c81c7422c2702790
+      internalID: -438995683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeButton
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 181
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a585ea4aa6deb274d9dfe47c1c0ccdf3
+      internalID: 2097231360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HomeButtonDown
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 181
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292db734cd126f340b0a394e757709e3
+      internalID: 808072289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longcanvas
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 150
+        width: 84
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a53f1fd173937a48a2efc8b9712450d
+      internalID: 1392126683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CanvasMedium
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 69
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2e183a8fff5f14194d2d19db68d7fc
+      internalID: -335578568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -1399,6 +1567,7 @@ TextureImporter:
       ButtonSignNoWord: 1063956394
       Canvas: -1932876221
       Canvas2: -924381728
+      CanvasMedium: -335578568
       FordwardButton: -522281928
       Forward: 88914283
       Frame: -127032495
@@ -1431,14 +1600,21 @@ TextureImporter:
       HeartButtonReady: 189773051
       HeartIcon: -855089540
       Home: 556435127
-      HomeButton: 1171411265
+      HomeButton: 2097231360
+      HomeButtonDown: 808072289
+      HomeButtonS: 1171411265
       Lock: 252246864
       LockIcon: -2093357552
+      Longcanvas: 1392126683
       Mail: -982339816
       ManaDown: 1059769189
+      NextButton: 530002372
+      NextButtonDown: -438995683
       Pause: -26260343
       Play: 1810355995
       QuestionMark: -1925599575
+      RestartButtonDown: -567301500
+      RestartButtonReady: -1336110041
       Sign: 751968235
       VolumeBar: -1995048929
       WhiteShadow: -1726469839
