@@ -59,7 +59,7 @@ public class GameManager : MonoBehaviour
         }
 
         //Set Up Camera
-        Camera.main.orthographicSize = Mathf.Max(_level.Columns, _level.Rows) * 1.2f + 2f;
+        Camera.main.orthographicSize = Mathf.Max(_level.Columns, _level.Rows);
         Vector3 camPos = Camera.main.transform.position;
         camPos.x = _level.Columns * 0.5f;
         camPos.y = _level.Rows * 0.5f;
